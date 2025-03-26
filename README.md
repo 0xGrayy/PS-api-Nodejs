@@ -14,7 +14,7 @@ Before running the project, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ps-api-nodejs.git
+   git clone https://github.com/RlxChap2/ps-api-nodejs.git
    cd ps-api-nodejs
    ```
 
