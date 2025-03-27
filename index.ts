@@ -55,3 +55,5 @@ async function getPS4StoreData(query: string, size: string): Promise<PS4StoreRes
     }
   }
 }
+
+// PS5 API Comming Soon.
